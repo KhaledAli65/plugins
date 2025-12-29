@@ -10,7 +10,7 @@ from os import system, path
 import socket
 
 def getIconPath():
-    return "/usr/lib/enigma2/python/Plugins/Extensions/KhaledPanel/icon.png"
+    return "/usr/lib/enigma2/python/Plugins/Extensions/KhaledAliPanel/icon.png"
 
 class KhaledPanelScreen(Screen):
     skin = """
