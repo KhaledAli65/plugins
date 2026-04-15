@@ -7,7 +7,7 @@
 04_PurE2_7.6_13_04_2026 https://dl.dropboxusercontent.com/scl/fi/oxhmyf0d6f9hbpxkykquc/PurE2-7.4-novaler4kpro.zip?rlkey=yl9h32t2af0qdwy4whjas4ct6&st=a7wmgvzw&dl=0
 05_Openatv_8.0_13_04_2026 https://dl.dropboxusercontent.com/scl/fi/tvhfq7y5vvdje9gzfe7tx/openatv-7.6.0-novaler4kpro.zip?rlkey=6kqi9837ctk6q55pb0sa8f45l&st=smhipozt&dl=0
 ===|||Novaler_Pro_BOOT_5|||=== https://khaledali.com
-01_Openpli_9.1_BOOT_5 https://www.novaler.com/uploads/enigmapro/boot5/openpli-9.1-multiboxpro-boot5.zip
+01_Openpli_9.1_BOOT_5 https://dl.dropboxusercontent.com/scl/fi/e1lj4zq1i77syl5omue5p/novalerpro_KhaledAli_slot5.zip?rlkey=4wnxt4vvtdthdh39gjp0suxc8&st=fq4jwrix&dl=0
 ===|||Novaler_PRO_Android|||=== https://khaledali.com
 01_Android_8_PRO https://www.novaler.com/uploads/flashes/Android_8.0_multiboxpro_4k_20012025.zip
 02_Android_senator https://www.novaler.com/uploads/flashes/Multiboxpro-H5D-Senator.zip
