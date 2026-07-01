@@ -18,4 +18,4 @@
 05_Android_QBox https://www.novaler.com/uploads/flashes/Multiboxpro-QBOX1.zip
 06_Android_ForTec https://www.novaler.com/uploads/flashes/Multiboxpro-FortecStar.zip
 ===|||Novaler_PRO_Recovery|||=== https://khaledali.com
-01_Recovery_353_PRO https://www.novaler.com/uploads/flashes/novaler-multibox4kpro-20230816_recovery_emmc_v3.53.zip
+01_Recovery_353_PRO https://www.novaler.com/uploads/flashes/novaler4kpro-20251204_recovery_emmc.zip
