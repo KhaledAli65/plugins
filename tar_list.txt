@@ -1,5 +1,4 @@
-# قائمة ملفات tar.gz المتاحة للتنزيل المباشر
-# التحديث الأخير: Mon Jul 13 18:51:23 EEST 2026
+# قائمة ملفات tar.gz المتاحة
 Athantimes_PY3.tar.gz
 CrondManager.tar.gz
 E2BissKeysEditor.tar.gz
@@ -7,6 +6,7 @@ FootOnSat.tar.gz
 KhaledAliPanel.tar.gz
 KhaledCamManager.tar.gz
 KhaledFreeServer.tar.gz
+KhaledScript.tar.gz
 PluginBrowser.tar.gz
 TSmedia.tar.gz
 WeatherPlugin.tar.gz
