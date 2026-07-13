@@ -1,0 +1,631 @@
+Lost field Installed-Size, 216
+Lost field Installed-Size, 0
+Package: enigma2-footonsat
+Version: v1.0
+Section: base
+Architecture: all
+Maintainer: FootOnSat
+MD5Sum: ae1c29c512aa14344cd6215281d8c3e1
+Size: 14910756
+Filename: footonsat.ipk
+Description: FootOnSat
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-acherone
+Version: 1.1
+Section: enigma2
+Architecture: all
+Maintainer: *
+MD5Sum: 6de18968c6e1226cb472d80895e5e642
+Size: 11222
+Filename: e2panel.ipk
+Source: /
+Description: Script executor
+OE: 2.0 - 2.2 - 2.5
+HomePage: *
+License: *
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-aisubtitles
+Version: v2.2
+Section: base
+Architecture: all
+Maintainer: AISubtitles
+MD5Sum: 3b846c8e39e044d9376913e94be2dffe
+Size: 56280
+Filename: aisubtitles.ipk
+Description: AISubtitles
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-ajpanel
+Version: v10.8.1
+Recommends: xz (>= 5), zip, p7zip, unrar, bzip2, ffmpeg, python-requests | python3-requests, python-imaging | python3-pillow, ar (>= 2) | enigma2-plugin-extensions-opkg-tools | binutils
+Section: base
+Architecture: all
+Maintainer: AMAJamry - https://github.com/AMAJamry/AJPanel
+MD5Sum: 262bc6b24aae709be263cf6de302d66c
+Size: 539416
+Filename: ajpanel.ipk
+Description: Enigma2 Tools
+HomePage: https://github.com/AMAJamry/AJPanel
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-auto-dcw-key-add
+Version: v1.0.8
+Architecture: all
+Maintainer: Youchie (Telegram: @Youchie)
+MD5Sum: bfb5ac8ebf641fc441401f2d69be5941
+Size: 88078
+Filename: auto-dcw-key-add.ipk
+Description: Auto DCW Key And ADD Manual BISS Key For All opkg System Images. (Build by Youchie)
+HomePage: https://t.me/Youchie
+License: Proprietary
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-backupsuite
+Version: 3.0-r10
+Depends: bzip2, enigma2-plugin-extensions-backupsuite, mtd-utils, mtd-utils-ubifs, ofgwrite
+Section: base
+Architecture: all
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org> - Lululla
+MD5Sum: 2caaa9504084ba334adf3c5ee2e6a463
+Size: 416824
+Filename: backupsuite.ipk
+Source: enigma2-plugin-extensions-backupsuite.bb
+Description: Enigma2 Plugin: extensions-backupsuite
+OE: enigma2-plugin-extensions-backupsuite
+License: GPLv3
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-bouquetmakerxtream
+Version: 1.24.20240901
+Section: misc
+Architecture: all
+Maintainer: kiddac
+MD5Sum: b1b1151cf313bbeb9bdce887a877d770
+Size: 1442310
+Filename: bouquetmakerxtream.ipk
+Description: Bouquet Maker Xtream - IPTV bouquet maker
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-buttonpatcher
+Version: 1.0
+Section: base
+Architecture: all
+Maintainer: MNASR <popking159@gmail.com>
+MD5Sum: 8a92c71b4833c6f3f72f5121e6ca55c0
+Size: 10102
+Filename: buttonpatcher.ipk
+Description: Button Patcher
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-clearmem
+Version: 1.10
+Section: misc
+Architecture: all
+Maintainer: Shamann-moulikpeta-lululla
+MD5Sum: 09efd081efff3f2420f0bedccb9240ba
+Size: 11360
+Filename: clearmem.ipk
+Source: *
+Description: clear box memory
+OE: 2.0
+HomePage: *
+License: *
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-dreamexplorer
+Version: 7.3+gitr7689+d4afaea-r8
+Section: base
+Architecture: multiboxse
+Maintainer: OE-Alliance team
+MD5Sum: 45c35ff6ffe012899e7e9c519a037c22
+Size: 61822
+Filename: dreamexplorer.ipk
+Source: enigma2-plugins.bb
+Description: extensions-dreamexplorer
+OE: enigma2-plugins
+HomePage: https:\\www.opena.tv
+License: Proprietary
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-enhancement
+Version: v1.1
+Section: base
+Architecture: all
+Maintainer: enhancement
+MD5Sum: 7d4dcf4e9280f9d051cc35939fb7ad80
+Size: 36844
+Filename: autoresolution.ipk
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-epgimport
+Version: 1.0+git286+71eff7f-r0
+Depends: python3-backports-lzma, python3-compression, python3-core, python3-pkgutil, python3-shell
+Recommends: epgimport-rytec
+Section: base
+Architecture: cortexa15hf-neon-vfpv4
+Maintainer: oe-alliance
+MD5Sum: 8ad26e831dcdaee5466bf5d9e1245901
+Size: 87330
+Filename: epgimport.ipk
+Source: enigma2-plugin-extensions-epgimport.bb
+Description: Imports xmltv files into the EPG cache of enigma2
+OE: enigma2-plugin-extensions-epgimport
+HomePage: https:\\www.opena.tv
+License: GPL-2.0-only
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-estalker
+Version: 1.39.20260517
+Section: misc
+Architecture: all
+Maintainer: kiddac
+MD5Sum: 5c5b19b1a7fbe13961724ceef5ce06e2
+Size: 3256448
+Filename: estalker.ipk
+Description: IPTV Ministra stalker player by KiddaC
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-filecommander
+Version: 7.3+git33367+8d169ae-r0
+Depends: enigma2, python3-puremagic
+Section: base
+Architecture: novaler4kse
+Maintainer: OE-Alliance
+MD5Sum: 94546c4c1f64ee18fa3352062e2a328d
+Size: 75238
+Filename: filecommander.ipk
+Source: enigma2.bb
+Description: extensions-filecommander
+OE: enigma2
+HomePage: https:\\www.opena.tv
+License: GPL-2.0-only
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-historyzap
+Version: 1.0.46
+Section: base
+Architecture: all
+Maintainer: Dorik1972
+MD5Sum: 400746f9c8daf5a06566898ad21ed4e4
+Size: 1932940
+Filename: historyzap.ipk
+Description: History Zap Selector for fast channel switching
+OE: 2.0 - 2.2 - 2.5 -2.6
+HomePage: https://github.com/pepsik-kiev
+License: proprietary software
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-ipaudio
+Version: 8.0
+Depends: python3-core, python3-twisted-web, python3-json, gstreamer1.0, gstreamer1.0-plugins-base, gstreamer1.0-plugins-good, gstreamer1.0-plugins-bad, gstreamer1.0-plugins-ugly, ffmpeg
+Recommends: python3-requests, python3-six
+Section: extra
+Architecture: all
+Maintainer: popking159
+MD5Sum: cde2bbc5cc8baea1fcd56353f12294ef
+Size: 32652
+Filename: ipaudio_8.0.ipk
+Source: https://github.com/popking159/ipaudio
+Description: IPAudio - Multi-format audio streaming plugin with custom playlists
+OE: enigma2-plugin-extensions-ipaudio
+HomePage: https://github.com/popking159/ipaudio
+License: GPL-2.0
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-ipaudiopro
+Version: 1.2+git120+9bc2d610+9bc2d61fa6-r0
+Depends: alsa-conf, alsa-plugins, alsa-state, enigma2, libasound2 (>= 1.2.11), libavcodec60 (>= 6.1.1), libavformat60 (>= 6.1.1), libc6 (>= 2.39+git0+273a835fe7), libgcc1 (>= 13.2.0), libpython3.12-1.0 (>= 3.12.3), libstdc++6 (>= 13.2.0), python3-cryptography
+Section: base
+Architecture: cortexa15hf-neon-vfpv4
+Maintainer: zKhadiri
+MD5Sum: 6eab74de94163b2c2402ce8bc0fe4346
+Size: 1064594
+Filename: ipaudiopro.ipk
+Source: enigma2-plugin-extensions-ipaudiopro.bb
+Description: enigma2-plugin-extensions-ipaudiopro version 1.2+git-r0
+OE: enigma2-plugin-extensions-ipaudiopro
+HomePage: https:\\www.opena.tv
+License: Proprietary
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-ipaudiopro
+Version: 1.1+git94+c20aa020+c20aa023b1-r0
+Depends: alsa-plugins, libasound2 (>= 1.2.10), libavcodec60 (>= 6.1.1), libavformat60 (>= 6.1.1), libc6 (>= 2.39+git0+6d1e3fb07b), libgcc1 (>= 13.2.0), libpython3.12-1.0 (>= 3.12.2), libstdc++6 (>= 13.2.0), python3-core, python3-cryptography
+Section: base
+Architecture: mips32el
+Maintainer: zKhadiri
+MD5Sum: 66a52ecbc45a8a52199a5e3f3b045117
+Size: 964436
+Filename: ipaudiopro_mips.ipk
+Source: enigma2-plugin-extensions-ipaudiopro.bb
+Description: enigma2-plugin-extensions-ipaudiopro version 1.1+git-r0
+OE: enigma2-plugin-extensions-ipaudiopro
+HomePage: https:\\www.opena.tv
+License: Proprietary
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-ipstreamer
+Version: 1.30
+Depends: python3-core (>= 3.5), python3-twisted-web, python3-pillow, python3-json, ffmpeg, gstreamer1.0-plugins-bad-autoconvert, gstreamer1.0-plugins-bad-dash, gstreamer1.0-plugins-bad-faad, gstreamer1.0-plugins-bad-hls, gstreamer1.0-plugins-bad-mpegpsdemux, gstreamer1.0-plugins-bad-mpegtsdemux, gstreamer1.0-plugins-bad-opusparse, gstreamer1.0-plugins-bad-rtmp, gstreamer1.0-plugins-bad-smoothstreaming, gstreamer1.0-plugins-bad-subenc, gstreamer1.0-plugins-bad-videoparsersbad, gstreamer1.0-plugins-base-alsa, gstreamer1.0-plugins-base-app, gstreamer1.0-plugins-base-audioconvert, gstreamer1.0-plugins-base-audiorate, gstreamer1.0-plugins-base-audioresample, gstreamer1.0-plugins-base-ogg, gstreamer1.0-plugins-base-opus, gstreamer1.0-plugins-base-playback, gstreamer1.0-plugins-base-rawparse, gstreamer1.0-plugins-base-subparse, gstreamer1.0-plugins-base-typefindfunctions, gstreamer1.0-plugins-base-videoconvertscale, gstreamer1.0-plugins-base-vorbis, gstreamer1.0-plugins-good-amrnb, gstreamer1.0-plugins-good-amrwbdec, gstreamer1.0-plugins-good-apetag, gstreamer1.0-plugins-good-audioparsers, gstreamer1.0-plugins-good-autodetect, gstreamer1.0-plugins-good-avi, gstreamer1.0-plugins-good-flac, gstreamer1.0-plugins-good-flv, gstreamer1.0-plugins-good-icydemux, gstreamer1.0-plugins-good-id3demux, gstreamer1.0-plugins-good-isomp4, gstreamer1.0-plugins-good-matroska, gstreamer1.0-plugins-good-rtp, gstreamer1.0-plugins-good-rtpmanager, gstreamer1.0-plugins-good-rtsp, gstreamer1.0-plugins-good-soup, gstreamer1.0-plugins-good-udp, gstreamer1.0-plugins-good-wavpack, gstreamer1.0-plugins-good-wavparse, gstreamer1.0-plugins-ugly-asf, gstreamer1.0-plugins-ugly-cdio, gstreamer1.0-plugins-ugly-dvdsub, gstreamer1.0-plugins-base-volume, gstreamer1.0-plugins-bad-audiovisualizers, gstreamer1.0-plugins-good-pulseaudio, gstreamer1.0-plugins-good-equalizer
+Section: extra
+Architecture: all
+Maintainer: popking159
+MD5Sum: c611d08eaa8819166f5a552673468957
+Size: 527716
+Filename: ipaudio_nassr.ipk
+Description: IPStreamer - Multi-format audio streaming plugin with custom playlists
+HomePage: https://github.com/popking159/ipstreamer
+License: GPL-2.0
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-jediepgxtream
+Version: 2.15.20251011
+Section: misc
+Architecture: all
+Maintainer: kiddac
+MD5Sum: 91a9f8ae9850ff00bc50262e30e2c1d5
+Size: 251190
+Filename: jediepgxtream.ipk
+Description: Jedi EPG Xtream
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-jedimakerxtream
+Version: 6.40.20250212
+Section: misc
+Architecture: all
+Maintainer: kiddac
+MD5Sum: 03ee01a42cabe38e6aee07ad76ec3cc4
+Size: 3662090
+Filename: jedimakerxtream.ipk
+Description: Jedi Maker Xtream
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-levi45-freeserver
+Version: 1.8
+Depends: enigma2, curl
+Section: base
+Architecture: all
+Maintainer: levi45
+MD5Sum: 123c7e415b6ed07dc44261e32ee633f9
+Size: 17038
+Filename: levi45-freeserver.ipk
+Description: Levi45 freeserver
+HomePage: satellite-forum.com
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-levi45iptv
+Version: 1.3
+Depends: enigma2
+Section: base
+Architecture: all
+Maintainer: levi45
+MD5Sum: 305a220979462b1edc93315b252ac4dc
+Size: 21284
+Filename: levi45iptv.ipk
+Source: https://satellite-forum.com
+Description: Levi45 iptv
+HomePage: https://satellite-forum.com
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-linuxsat-panel
+Version: 2.0
+Depends: wget
+Section: extra
+Architecture: all
+Maintainer: master G - Lululla - graph: oktus
+MD5Sum: 23592dd0a1327732bba02658b5916aeb
+Size: 1700256
+Filename: linuxsat-panel.ipk
+Source: https://www.linuxsat-support.com
+Description: addons panel
+OE: 2.0/2.5-2.6
+HomePage: https://www.linuxsat-support.com
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-multi-stalkerpro
+Version: 1.0+git17+3e81926-r0
+Depends: enigma2-plugin-systemplugins-serviceapp, exteplayer3, libc6 (>= 2.30), python-cryptography
+Section: base
+Architecture: armv7ahf-neon
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 673f8d9c749d13a77a97830cf471db14
+Size: 721254
+Filename: multi-stalkerpro_py2.7.ipk
+Source: enigma2-plugin-extensions-multi-stalkerpro.bb
+Description: enigma2-plugin-extensions-multi-stalkerpro version 1.0+gitAUTOINC+3e819269ae-r0
+OE: enigma2-plugin-extensions-multi-stalkerpro
+License: GPLv2+
+Priority: required
+
+
+Package: enigma2-plugin-extensions-multi-stalkerpro
+Version: 1.1+git94+247e9ab0+247e9ab8e1-r0
+Depends: enigma2-plugin-systemplugins-serviceapp, exteplayer3, gstplayer, libc6 (>= 2.39+git0+273a835fe7), python3-core, python3-cryptography, python3-dateutil, python3-fuzzywuzzy, python3-levenshtein, python3-pillow, python3-rarfile, python3-requests, python3-six, python3-sqlite3, python3-zoneinfo, uchardet
+Section: multimedia
+Architecture: cortexa15hf-neon-vfpv4
+Maintainer: OpenViX
+MD5Sum: adeab212b0020a3c0c5bc63b963fc760
+Size: 2922160
+Filename: multi-stalkerpro_py3.11.ipk
+Source: enigma2-plugin-extensions-multi-stalkerpro.bb
+Description: enigma2-plugin-extensions-multi-stalkerpro version 1.1+git-r0
+OE: enigma2-plugin-extensions-multi-stalkerpro
+HomePage: https://www.world-of-satellite.com
+License: Proprietary
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-oaweather
+Version: 1.2
+Section: base
+Architecture: all
+Maintainer: mod by kitte888 for py2
+MD5Sum: 87c210792d440f4d165de6e9b64ad79c
+Size: 1026064
+Filename: oaweather_py2.ipk
+Description: Weather component
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-oaweather
+Version: 1.4-git35+b653286-r0
+Depends: enigma2-tools-weatherinfo
+Section: extra
+Architecture: cortexa15hf-neon-vfpv4
+Maintainer: jbleyel
+MD5Sum: e06238e90739e6e34abc60b715621c68
+Size: 836382
+Filename: oaweather_py3.ipk
+Source: enigma2-plugin-extensions-oaweather.bb
+Description: OAWeather Converter and Renderer to display Weather in Skin.
+OE: enigma2-plugin-extensions-oaweather
+HomePage: https:\\www.opena.tv
+License: GPL-3.0-only
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-pluginspanel
+Version: 1.0
+Section: extra
+Architecture: all
+Maintainer: @lululla
+MD5Sum: 8ceb0ff42ee724a1b6a9d761b46c619e
+Size: 35200
+Filename: pluginspanel.ipk
+Source: PluginsPanel
+Description: Browse Plugin and Show
+OE: 2.0
+HomePage: linuxsat-support.com
+License: *
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-plutotv
+Version: 20240220
+Recommends: enigma2-plugin-systemplugins-serviceapp
+Section: extensions
+Architecture: all
+Maintainer: Billy2011
+MD5Sum: 8943e7ce888b523332e3c146358702b1
+Size: 507780
+Filename: plutotv.ipk
+Description: pluto.tv for VTI
+License: GPLv2+
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-samsungtvplus
+Version: 20250815
+Depends: enigma2-plugin-extensions-epgimport
+Recommends: enigma2-plugin-systemplugins-serviceapp
+Section: extensions
+Architecture: all
+Maintainer: Billy2011
+MD5Sum: 403153a647d4c1fd2751f5cf99b479b1
+Size: 174972
+Filename: samsungtvplus.ipk
+Description: Samsung TV Plus Live TV Channels
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-screengrabber
+Version: 3.2
+Section: extra
+Architecture: all
+Maintainer: mFaraj RIP _ @lululla
+MD5Sum: 24a5bf991734571848b8f06cb546da06
+Size: 964258
+Filename: screengrabber.ipk
+Source: ./
+Description: take screenshot of enigma2 box screen for python 3
+HomePage: tunisia-sat.com,dreamoem.com
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-sherlock
+Version: v1.0
+Section: base
+Architecture: all
+Maintainer: sherlok
+MD5Sum: a48d8d1aff96eb98193040bf4ac330f2
+Size: 2597886
+Filename: sherlockmod.ipk
+Description: sherlok
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-spinner-selector
+Version: 3.2
+Section: extra
+Architecture: all
+Maintainer: aladin25-Lululla
+MD5Sum: 14b5d1b6eb236e68aa91f9192fbcb491
+Size: 12192064
+Filename: spinner-selector.ipk
+Source: enigma2-plugin-extensions-spinner-selector
+Description: Spinner Selector
+OE: enigma2-plugin-extensions-spinner-selector
+HomePage: http://www.i-have-a-dreambox.com
+License: gpl
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-subssupport
+Version: 1.7.0-r14-py3
+Depends: python3-codecs, python3-compression, python3-core, python3-difflib, python3-json, python3-requests, python3-xmlrpc, unrar, python3-beautifulsoup4
+Section: base
+Architecture: all
+Maintainer: mnasr
+MD5Sum: 63bea0bcf0043122fa6d22330cf84a31
+Size: 737584
+Filename: subssupport_py3.ipk
+Source: enigma2-plugin-extensions-subssupport_1.7.0
+Description: Collection of enigma2 subtitles plugins
+OE: enigma2-plugin-extensions-subssupport
+HomePage: https://github.com/mx3L/subssupport
+License: GPL-2.0-only
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-tvspro
+Version: 2.1
+Section: extra
+Architecture: all
+Maintainer: @lululla
+MD5Sum: 59658e9e01d71e8b2e5a0db5a83a4884
+Size: 3747206
+Filename: tvspro.ipk
+Source: @lululla
+Description: TiVuStream
+OE: 2.0-2.2-2.5
+HomePage: tivustream.com
+License: O.S.
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-vavoo
+Version: 1.15
+Section: misc
+Architecture: all
+Maintainer: *
+MD5Sum: 3868d02b0ab538ccb9aea2fd127262eb
+Size: 1222818
+Filename: vavoo.ipk
+Source: *
+Description: Vavoo stream online
+HomePage: *
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-xklass
+Version: 1.80.20260325
+Section: misc
+Architecture: all
+Maintainer: kiddac
+MD5Sum: bc3fca48410bf14d9b9bdcecbbb4ea6a
+Size: 5999850
+Filename: xklass.ipk
+Description: IPTV Xtream Codes/XUI One playlists player by KiddaC
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-xmlupdatebyiet5
+Version: 1.4
+Depends: enigma2 (>= 2.5)
+Provides: enigma2-plugin-extensions-xmlupdatebyiet5
+Replaces: enigma2-plugin-extensions-xmlupdatebyiet5
+Conflicts: enigma2-plugin-extensions-xmlupdatebyiet5
+Section: base
+Architecture: all
+Maintainer: iet5
+MD5Sum: 183c6a8427429692aafa231807011a49
+Size: 79966
+Filename: xmlupdatebyiet5.ipk
+Description: Satellite.xml Update - Delete - Adding - Editing Contents plugin for Enigma2 by iet5
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-xstreamity
+Version: 5.50.20260524
+Section: misc
+Architecture: all
+Maintainer: kiddac
+MD5Sum: 7387f3f868519a78909688c9c7cb4095
+Size: 8761682
+Filename: xstreamity.ipk
+Source: {"Type":"Plugin","Title":"IPTV Xtream Codes/XUI One playlists player by KiddaC","LastUpdated":"1779625921","PostRemoveFlags":"Restart GUI"}
+Description: IPTV Xtream Codes/XUI One playlists player by KiddaC
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-xtraevent
+Version: 6.798
+Depends: python3-pillow, python3-requests
+Section: extra
+Architecture: all
+Maintainer: kitte888
+MD5Sum: c31555f833aecd377ffb792c073cbffc
+Size: 761670
+Filename: xtraevent.ipk
+Description: xtraEvent
+Priority: optional
+
+
+Package: enigma2-plugin-skins-metrixfhd-neo
+Version: V.7.6_bv
+Section: base
+Architecture: all
+Maintainer: neo
+MD5Sum: fcd8d2142d7069ecb93d0ea0ffb17259
+Size: 777688
+Filename: metrixfhd-neo.ipk
+Source: https://www.opena.tv/
+Description: Skin Full HD for openATV Images by neo
+OE: Enigma2 Skin
+HomePage: https://www.opena.tv/
+License: open
+Priority: optional
+
+
+Package: enigma2-plugin-systemplugins-automaticvolumeadjustment
+Version: 5.4.1+gitr7737+5cf43630+5cf436378d-r8
+Section: base
+Architecture: multiboxse
+Maintainer: OE-Alliance team
+MD5Sum: aec1fdc90f80d01bff1347212446cea4
+Size: 24894
+Filename: automaticvolumeadjustment.ipk
+Source: enigma2-plugins.bb
+Description: systemplugins-automaticvolumeadjustment
+OE: enigma2-plugins
+HomePage: https://www.openbh.net
+License: Proprietary
+Priority: optional
+
+
