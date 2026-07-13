@@ -5,8 +5,8 @@ Version: v1.0
 Section: Khaled Plugins
 Architecture: all
 Maintainer: FootOnSat
-MD5Sum: 1901b9e44c674aea1ad4d58a19fcef22
-Size: 14910772
+MD5Sum: 9a7f71e31eb9f55d2583e37534ae9e3d
+Size: 14910774
 Filename: footonsat.ipk
 Description: FootOnSat
 Priority: optional
@@ -17,7 +17,7 @@ Version: 1.1
 Section: Khaled Plugins
 Architecture: all
 Maintainer: *
-MD5Sum: 8a0e3a9149e8f4b5f75a094068bf9bd0
+MD5Sum: b9582ccfa73e9f9a30a2c3a133f19462
 Size: 11230
 Filename: e2panel.ipk
 Source: /
@@ -33,8 +33,8 @@ Version: v2.2
 Section: Khaled Plugins
 Architecture: all
 Maintainer: AISubtitles
-MD5Sum: 393280d386afc21143b8bfb57e9081df
-Size: 56310
+MD5Sum: 92bc8a25ea1a26bc0e60a1ac3e8deb09
+Size: 56308
 Filename: aisubtitles.ipk
 Description: AISubtitles
 Priority: optional
@@ -46,8 +46,8 @@ Recommends: xz (>= 5), zip, p7zip, unrar, bzip2, ffmpeg, python-requests | pytho
 Section: Khaled Plugins
 Architecture: all
 Maintainer: AMAJamry - https://github.com/AMAJamry/AJPanel
-MD5Sum: 362f15e1566cda98b02b4ef102a337af
-Size: 539456
+MD5Sum: 97c7f2f6453bd5328db3b569b5f31061
+Size: 539454
 Filename: ajpanel.ipk
 Description: Enigma2 Tools
 HomePage: https://github.com/AMAJamry/AJPanel
@@ -58,8 +58,8 @@ Package: enigma2-plugin-extensions-auto-dcw-key-add
 Version: v1.0.8
 Architecture: all
 Maintainer: Youchie (Telegram: @Youchie)
-MD5Sum: eb9d90358fe05bb78107e748d5806052
-Size: 88104
+MD5Sum: 5f2896a257793a586dbb0b30d91a1c0d
+Size: 88100
 Filename: auto-dcw-key-add.ipk
 Description: Auto DCW Key And ADD Manual BISS Key For All opkg System Images. (Build by Youchie)
 HomePage: https://t.me/Youchie
@@ -73,8 +73,8 @@ Depends: bzip2, enigma2-plugin-extensions-backupsuite, mtd-utils, mtd-utils-ubif
 Section: Khaled Plugins
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org> - Lululla
-MD5Sum: 5f26d07183ef52de1a2f42849ac075c9
-Size: 416828
+MD5Sum: 8cf9ae142892457707731f424e56182a
+Size: 416830
 Filename: backupsuite.ipk
 Source: enigma2-plugin-extensions-backupsuite.bb
 Description: Enigma2 Plugin: extensions-backupsuite
@@ -88,7 +88,7 @@ Version: 1.24.20240901
 Section: Khaled Plugins
 Architecture: all
 Maintainer: kiddac
-MD5Sum: 8d80971f763f89b2df211a3c7b7759b3
+MD5Sum: 580245d39030eddbf230017b7f6c0348
 Size: 1442310
 Filename: bouquetmakerxtream.ipk
 Description: Bouquet Maker Xtream - IPTV bouquet maker
@@ -100,7 +100,7 @@ Version: 1.0
 Section: Khaled Plugins
 Architecture: all
 Maintainer: MNASR <popking159@gmail.com>
-MD5Sum: 462fcf1eb314cede59ad7df86a318daf
+MD5Sum: 28bac8131008f30e73a21d3a7cae54d9
 Size: 10114
 Filename: buttonpatcher.ipk
 Description: Button Patcher
@@ -112,7 +112,7 @@ Version: 1.10
 Section: Khaled Plugins
 Architecture: all
 Maintainer: Shamann-moulikpeta-lululla
-MD5Sum: 84aa1697b1fe41d99b6d6eee20f8905e
+MD5Sum: c1c7f780e7f1028fe23043ddf3ab0695
 Size: 11366
 Filename: clearmem.ipk
 Source: *
@@ -128,8 +128,8 @@ Version: 7.3+gitr7689+d4afaea-r8
 Section: Khaled Plugins
 Architecture: multiboxse
 Maintainer: OE-Alliance team
-MD5Sum: f5c9852d91c0c2190dfca563efc90c83
-Size: 552
+MD5Sum: c7a9cea3103cd3878571ff8872f36ca6
+Size: 553
 Filename: dreamexplorer.ipk
 Source: enigma2-plugins.bb
 Description: extensions-dreamexplorer
@@ -144,8 +144,8 @@ Version: v1.1
 Section: Khaled Plugins
 Architecture: all
 Maintainer: enhancement
-MD5Sum: b6af1c0256bc8bab00ed8967dd570f75
-Size: 36860
+MD5Sum: 6528fcaa7ab4a0f837b12179a6f83a2a
+Size: 36858
 Filename: autoresolution.ipk
 Priority: optional
 
@@ -157,8 +157,8 @@ Recommends: epgimport-rytec
 Section: Khaled Plugins
 Architecture: cortexa15hf-neon-vfpv4
 Maintainer: oe-alliance
-MD5Sum: 5e91906d49ab2cb2deeb1b41a581dacf
-Size: 617
+MD5Sum: a75d0ae3015fe15934f8738725401b64
+Size: 627
 Filename: epgimport.ipk
 Source: enigma2-plugin-extensions-epgimport.bb
 Description: Imports xmltv files into the EPG cache of enigma2
@@ -173,8 +173,8 @@ Version: 1.39.20260517
 Section: Khaled Plugins
 Architecture: all
 Maintainer: kiddac
-MD5Sum: 6d4bcfa2e8b2d14286a30433c40c2f10
-Size: 3256452
+MD5Sum: fe98b39c976c618710c8f0c6ef10112a
+Size: 3256450
 Filename: estalker.ipk
 Description: IPTV Ministra stalker player by KiddaC
 Priority: optional
@@ -186,8 +186,8 @@ Depends: enigma2, python3-puremagic
 Section: Khaled Plugins
 Architecture: novaler4kse
 Maintainer: OE-Alliance
-MD5Sum: a87e58b99678f4923b3bd136bc676a5f
-Size: 538
+MD5Sum: bd0c817b2ebb1b867be6eb403eeab33f
+Size: 546
 Filename: filecommander.ipk
 Source: enigma2.bb
 Description: extensions-filecommander
@@ -202,7 +202,7 @@ Version: 1.0.46
 Section: Khaled Plugins
 Architecture: all
 Maintainer: Dorik1972
-MD5Sum: 99d08c412dad745662c7238b968f395c
+MD5Sum: 35c6490ebbbf354ecff40aa01555c7c6
 Size: 1932940
 Filename: historyzap.ipk
 Description: History Zap Selector for fast channel switching
@@ -219,7 +219,7 @@ Recommends: python3-requests, python3-six
 Section: Khaled Plugins
 Architecture: all
 Maintainer: popking159
-MD5Sum: 13bda0b53f925dd02ac644f31969506d
+MD5Sum: 3006080758eb371a0be95c7dba5a2f21
 Size: 32664
 Filename: ipaudio_8.0.ipk
 Source: https://github.com/popking159/ipaudio
@@ -236,8 +236,8 @@ Depends: alsa-conf, alsa-plugins, alsa-state, enigma2, libasound2 (>= 1.2.11), l
 Section: Khaled Plugins
 Architecture: cortexa15hf-neon-vfpv4
 Maintainer: zKhadiri
-MD5Sum: 2dbefe224b897f28e8145a1864849b52
-Size: 747
+MD5Sum: 9ab467add3ccb5076530299c2a6aaa2d
+Size: 753
 Filename: ipaudiopro.ipk
 Source: enigma2-plugin-extensions-ipaudiopro.bb
 Description: enigma2-plugin-extensions-ipaudiopro version 1.2+git-r0
@@ -253,8 +253,8 @@ Depends: alsa-plugins, libasound2 (>= 1.2.10), libavcodec60 (>= 6.1.1), libavfor
 Section: Khaled Plugins
 Architecture: mips32el
 Maintainer: zKhadiri
-MD5Sum: 7488be2a6d8ae311c618b0323823e416
-Size: 722
+MD5Sum: 5de2b2f2b2e97b449b5c6290beeb336c
+Size: 732
 Filename: ipaudiopro_mips.ipk
 Source: enigma2-plugin-extensions-ipaudiopro.bb
 Description: enigma2-plugin-extensions-ipaudiopro version 1.1+git-r0
@@ -270,8 +270,8 @@ Depends: python3-core (>= 3.5), python3-twisted-web, python3-pillow, python3-jso
 Section: Khaled Plugins
 Architecture: all
 Maintainer: popking159
-MD5Sum: eeea813adb9df5453270aea1a88e3dba
-Size: 527730
+MD5Sum: 3930c28304a40a7d35fc7e48d60ef587
+Size: 527728
 Filename: ipaudio_nassr.ipk
 Description: IPStreamer - Multi-format audio streaming plugin with custom playlists
 HomePage: https://github.com/popking159/ipstreamer
@@ -284,8 +284,8 @@ Version: 2.15.20251011
 Section: Khaled Plugins
 Architecture: all
 Maintainer: kiddac
-MD5Sum: 912e80bac550a92955908a63fc23382b
-Size: 251192
+MD5Sum: 37f61ab2070de783251f93f4fd265b8d
+Size: 251194
 Filename: jediepgxtream.ipk
 Description: Jedi EPG Xtream
 Priority: optional
@@ -296,7 +296,7 @@ Version: 6.40.20250212
 Section: Khaled Plugins
 Architecture: all
 Maintainer: kiddac
-MD5Sum: 6f8d74a1f549983b064e5ef5cbec13e7
+MD5Sum: d26788d31f924b7eb149e44de68bed61
 Size: 3662092
 Filename: jedimakerxtream.ipk
 Description: Jedi Maker Xtream
@@ -309,8 +309,8 @@ Depends: enigma2, curl
 Section: Khaled Plugins
 Architecture: all
 Maintainer: levi45
-MD5Sum: c9276e46213e756dbabea3b50c9823a2
-Size: 17056
+MD5Sum: 548fbf3e5b9f886790ac0fe5ccdbe3a3
+Size: 17058
 Filename: levi45-freeserver.ipk
 Description: Levi45 freeserver
 HomePage: satellite-forum.com
@@ -323,7 +323,7 @@ Depends: enigma2
 Section: Khaled Plugins
 Architecture: all
 Maintainer: levi45
-MD5Sum: 91f2a2854cecde870890364dfd320877
+MD5Sum: d37761fa8c9a59790dc8692c8a129c3a
 Size: 21302
 Filename: levi45iptv.ipk
 Source: https://satellite-forum.com
@@ -338,7 +338,7 @@ Depends: wget
 Section: Khaled Plugins
 Architecture: all
 Maintainer: master G - Lululla - graph: oktus
-MD5Sum: c7b51fcdec3a7f9a2d78679c5f7e51a1
+MD5Sum: c9b8645e86b9e85a69c1b983c3cc734a
 Size: 1700262
 Filename: linuxsat-panel.ipk
 Source: https://www.linuxsat-support.com
@@ -354,8 +354,8 @@ Depends: enigma2-plugin-systemplugins-serviceapp, exteplayer3, libc6 (>= 2.30), 
 Section: Khaled Plugins
 Architecture: armv7ahf-neon
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 1e9848999bca071e9b9e4fde58398a89
-Size: 618
+MD5Sum: e2d22569f93a0fc0843767059617b519
+Size: 627
 Filename: multi-stalkerpro_py2.7.ipk
 Source: enigma2-plugin-extensions-multi-stalkerpro.bb
 Description: enigma2-plugin-extensions-multi-stalkerpro version 1.0+gitAUTOINC+3e819269ae-r0
@@ -370,8 +370,8 @@ Depends: enigma2-plugin-systemplugins-serviceapp, exteplayer3, gstplayer, libc6 
 Section: Khaled Plugins
 Architecture: cortexa15hf-neon-vfpv4
 Maintainer: OpenViX
-MD5Sum: bd92a1f3137ffcaf7b9c764c32d302d3
-Size: 1055
+MD5Sum: 1726edd8be7e438161a8d82cb53d6d30
+Size: 1064
 Filename: multi-stalkerpro_py3.11.ipk
 Source: enigma2-plugin-extensions-multi-stalkerpro.bb
 Description: enigma2-plugin-extensions-multi-stalkerpro version 1.1+git-r0
@@ -386,7 +386,7 @@ Version: 1.2
 Section: Khaled Plugins
 Architecture: all
 Maintainer: mod by kitte888 for py2
-MD5Sum: 554544e3c5489f8d5d2d62fad701992e
+MD5Sum: e8bfac5a0c9a11ac6d32d936f757c7c0
 Size: 1026078
 Filename: oaweather_py2.ipk
 Description: Weather component
@@ -399,8 +399,8 @@ Depends: enigma2-tools-weatherinfo
 Section: Khaled Plugins
 Architecture: cortexa15hf-neon-vfpv4
 Maintainer: jbleyel
-MD5Sum: ad9445add95a666275b0da1643bb6f5d
-Size: 586
+MD5Sum: 8dd4e612a5f922f039b2128ddb2ac1f8
+Size: 588
 Filename: oaweather_py3.ipk
 Source: enigma2-plugin-extensions-oaweather.bb
 Description: OAWeather Converter and Renderer to display Weather in Skin.
@@ -415,7 +415,7 @@ Version: 1.0
 Section: Khaled Plugins
 Architecture: all
 Maintainer: @lululla
-MD5Sum: 65ab27b6132a6f292a081cede24d2ee3
+MD5Sum: 8f9cd461b6104a04d1716dd27ee04472
 Size: 35210
 Filename: pluginspanel.ipk
 Source: PluginsPanel
@@ -432,8 +432,8 @@ Recommends: enigma2-plugin-systemplugins-serviceapp
 Section: Khaled Plugins
 Architecture: all
 Maintainer: Billy2011
-MD5Sum: 4397a152064423e390d6fa72d4a253ae
-Size: 507790
+MD5Sum: 097e34594aafeb7a4aa0ca0d85104e4d
+Size: 507792
 Filename: plutotv.ipk
 Description: pluto.tv for VTI
 License: GPLv2+
@@ -447,8 +447,8 @@ Recommends: enigma2-plugin-systemplugins-serviceapp
 Section: Khaled Plugins
 Architecture: all
 Maintainer: Billy2011
-MD5Sum: d9104280b12d53eb7236ae03252e201d
-Size: 174980
+MD5Sum: f84093ec6a40573822ed205ce597ddd9
+Size: 174982
 Filename: samsungtvplus.ipk
 Description: Samsung TV Plus Live TV Channels
 Priority: optional
@@ -459,8 +459,8 @@ Version: 3.2
 Section: Khaled Plugins
 Architecture: all
 Maintainer: mFaraj RIP _ @lululla
-MD5Sum: 0280d7ff34e1daafc7b8998ac81bfc34
-Size: 964266
+MD5Sum: 830c30c48cdf684ad537c5447b7562b3
+Size: 964264
 Filename: screengrabber.ipk
 Source: ./
 Description: take screenshot of enigma2 box screen for python 3
@@ -473,7 +473,7 @@ Version: v1.0
 Section: Khaled Plugins
 Architecture: all
 Maintainer: sherlok
-MD5Sum: e85097cb00d29de92a43ec843361a9e1
+MD5Sum: 5158db4a45b33dfa1a2e9419d5d2d80f
 Size: 2597904
 Filename: sherlockmod.ipk
 Description: sherlok
@@ -485,8 +485,8 @@ Version: 3.2
 Section: Khaled Plugins
 Architecture: all
 Maintainer: aladin25-Lululla
-MD5Sum: a12a1221079ec3dbf86dd9c060c65503
-Size: 12192070
+MD5Sum: 47c1dde44a81cf171b57479312d1aec1
+Size: 12192072
 Filename: spinner-selector.ipk
 Source: enigma2-plugin-extensions-spinner-selector
 Description: Spinner Selector
@@ -502,7 +502,7 @@ Depends: python3-codecs, python3-compression, python3-core, python3-difflib, pyt
 Section: Khaled Plugins
 Architecture: all
 Maintainer: mnasr
-MD5Sum: 932548d874344c148342d98c5e2ea4de
+MD5Sum: c288ef4fba3d9cd77642cb9e541ce3df
 Size: 737600
 Filename: subssupport_py3.ipk
 Source: enigma2-plugin-extensions-subssupport_1.7.0
@@ -518,8 +518,8 @@ Version: 2.1
 Section: Khaled Plugins
 Architecture: all
 Maintainer: @lululla
-MD5Sum: 34684f80b1452645ab02cf0b9dcf49ca
-Size: 3747206
+MD5Sum: edcfa0370ee38271769f8706ca82b273
+Size: 3747208
 Filename: tvspro.ipk
 Source: @lululla
 Description: TiVuStream
@@ -534,8 +534,8 @@ Version: 1.15
 Section: Khaled Plugins
 Architecture: all
 Maintainer: *
-MD5Sum: f94a31e3b5808df08fd985fd88b7483d
-Size: 1222830
+MD5Sum: 855a2ce1baa7730031b308fb7977b5e4
+Size: 1222832
 Filename: vavoo.ipk
 Source: *
 Description: Vavoo stream online
@@ -548,7 +548,7 @@ Version: 1.80.20260325
 Section: Khaled Plugins
 Architecture: all
 Maintainer: kiddac
-MD5Sum: a04f7a5050f639d13bef80d2593a0f06
+MD5Sum: adba77496ba4436c72520f0781b01685
 Size: 5999854
 Filename: xklass.ipk
 Description: IPTV Xtream Codes/XUI One playlists player by KiddaC
@@ -564,8 +564,8 @@ Conflicts: enigma2-plugin-extensions-xmlupdatebyiet5
 Section: Khaled Plugins
 Architecture: all
 Maintainer: iet5
-MD5Sum: f1f6ae22518dcb66700d561a90ffd1ad
-Size: 79978
+MD5Sum: fb362a647dd5b3bddb7498b26bdf75a1
+Size: 79976
 Filename: xmlupdatebyiet5.ipk
 Description: Satellite.xml Update - Delete - Adding - Editing Contents plugin for Enigma2 by iet5
 Priority: optional
@@ -576,7 +576,7 @@ Version: 5.50.20260524
 Section: Khaled Plugins
 Architecture: all
 Maintainer: kiddac
-MD5Sum: c2908d00fee370a367203e1f66030e86
+MD5Sum: 0e5519a9814224f6e6aab9c8666b79dd
 Size: 8761690
 Filename: xstreamity.ipk
 Source: {"Type":"Plugin","Title":"IPTV Xtream Codes/XUI One playlists player by KiddaC","LastUpdated":"1779625921","PostRemoveFlags":"Restart GUI"}
@@ -590,7 +590,7 @@ Depends: python3-pillow, python3-requests
 Section: Khaled Plugins
 Architecture: all
 Maintainer: kitte888
-MD5Sum: 0eef9ee902e64adfe53ebc107c7439fc
+MD5Sum: 817e7bd02d0e3cf8378c4a299f36dee7
 Size: 761684
 Filename: xtraevent.ipk
 Description: xtraEvent
@@ -602,7 +602,7 @@ Version: V.7.6_bv
 Section: Khaled Plugins
 Architecture: all
 Maintainer: neo
-MD5Sum: 700b5506e71e82801ddb7c0e10199755
+MD5Sum: 6d3f5602235e804c8d97488f8431e859
 Size: 777694
 Filename: metrixfhd-neo.ipk
 Source: https://www.opena.tv/
@@ -618,8 +618,8 @@ Version: 5.4.1+gitr7737+5cf43630+5cf436378d-r8
 Section: Khaled Plugins
 Architecture: multiboxse
 Maintainer: OE-Alliance team
-MD5Sum: 392e5eaa8f2a17390d56bd74c1c34dba
-Size: 550
+MD5Sum: f059b6b62b578a8b1895b943226ea9e8
+Size: 555
 Filename: automaticvolumeadjustment.ipk
 Source: enigma2-plugins.bb
 Description: systemplugins-automaticvolumeadjustment
