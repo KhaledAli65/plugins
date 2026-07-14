@@ -23,11 +23,11 @@ fullbackup.tar.gz
 ipaudio-6.4.tar.gz
 ipaudio-6.7.tar.gz
 ipaudio-7.4-ffmpeg.tar.gz
-ipaudio2.tar.gz
 iptosat.tar.gz
 jediepg.tar.gz
 khaledManager.tar.gz
 levi45.tar.gz
+multi-stalkerpro.tar.gz
 picon_buddy.tar.gz
 plutotv.tar.gz
 quran_radio.tar.gz
